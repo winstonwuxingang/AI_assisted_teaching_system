@@ -1,5 +1,8 @@
-# OpenClaw 私域知识库 Agent 创建指南
+# 本项目，包括AI辅助教学系统与OpenClaw的多Agent两部分
+## AI辅助教学系统：由vue+node.js以传统的软件工程方式进行构建。
 
+
+# OpenClaw的duoagent部分 ，举例：私域知识库 Agent之创建指南
 ## 概述
 
 本文档介绍如何在 OpenClaw 中创建一个可以使用私域知识库的 Agent。该 Agent 能够：
